@@ -1,6 +1,6 @@
 视频参考【黑马程序员匠心之作|C++教程从0到1入门编程,学习编程不再难-哔哩哔哩】 https://b23.tv/xq8bmw8
 
-笔记参考 c++学习笔记  标签: C&C++ | welcome to here
+笔记参考 c++学习笔记  https://namic00.github.io/tags/C-C/
 
 第一阶段      C++基础语法入门
 
