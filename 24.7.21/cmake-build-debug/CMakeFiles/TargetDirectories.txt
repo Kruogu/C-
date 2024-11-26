@@ -1,0 +1,6 @@
+E:/0Work/0workspace/24.7.21/cmake-build-debug/CMakeFiles/24_7_21.dir
+E:/0Work/0workspace/24.7.21/cmake-build-debug/CMakeFiles/13demo.dir
+E:/0Work/0workspace/24.7.21/cmake-build-debug/CMakeFiles/swap.dir
+E:/0Work/0workspace/24.7.21/cmake-build-debug/CMakeFiles/test.dir
+E:/0Work/0workspace/24.7.21/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/0Work/0workspace/24.7.21/cmake-build-debug/CMakeFiles/rebuild_cache.dir

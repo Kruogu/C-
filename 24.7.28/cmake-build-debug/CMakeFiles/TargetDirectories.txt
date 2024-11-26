@@ -1,0 +1,4 @@
+E:/0Work/0workspace/24.7.28/cmake-build-debug/CMakeFiles/24_7_28.dir
+E:/0Work/0workspace/24.7.28/cmake-build-debug/CMakeFiles/relation22.1.dir
+E:/0Work/0workspace/24.7.28/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/0Work/0workspace/24.7.28/cmake-build-debug/CMakeFiles/rebuild_cache.dir

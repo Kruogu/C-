@@ -1,0 +1,8 @@
+"D:\Software\CLion2024\CLion 2024.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Software/CLion2024/CLion 2024.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S E:\0Work\0workspace\24.7.20 -B E:\0Work\0workspace\24.7.20\cmake-build-debug
+CMake Error at CMakeLists.txt:10 (add_executable):
+  The target name "02字符串型" is reserved or not valid for certain CMake
+  features, such as generator expressions, and may result in undefined
+  behavior.
+
+
+-- Configuring incomplete, errors occurred!

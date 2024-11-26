@@ -1,0 +1,13 @@
+"D:\Software\CLion2024\CLion 2024.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Software/CLion2024/CLion 2024.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S E:\0Work\0workspace\24.7.17 -B E:\0Work\0workspace\24.7.17\cmake-build-debug
+-- Configuring done (0.2s)
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    test.
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: 24_7_17
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

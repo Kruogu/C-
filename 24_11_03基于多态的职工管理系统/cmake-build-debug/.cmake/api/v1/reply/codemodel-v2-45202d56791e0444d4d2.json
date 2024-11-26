@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "24_11_03",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "24_11_03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-24_11_03-Debug-3759d8bab2c5ee909d16.json",
+					"name" : "24_11_03",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/0Work/0workspace/24_11_03\u57fa\u4e8e\u591a\u6001\u7684\u804c\u5de5\u7ba1\u7406\u7cfb\u7edf/cmake-build-debug",
+		"source" : "E:/0Work/0workspace/24_11_03\u57fa\u4e8e\u591a\u6001\u7684\u804c\u5de5\u7ba1\u7406\u7cfb\u7edf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
